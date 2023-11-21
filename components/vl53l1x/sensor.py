@@ -32,9 +32,9 @@ CONFIG_SCHEMA = sensor.sensor_schema(UNIT_METER, ICON_ARROW_EXPAND_VERTICAL, 2).
 
 SETTERS = {
 
-  CONF_DISTANCE_MODE = 'set_distance_mode',
-  CONF_TIMING_BUDGET = 'set_timing_budget',
-  CONF_RETRY_BUDGET = 'set_retry_budget',
+  CONF_DISTANCE_MODE: 'set_distance_mode',
+  CONF_TIMING_BUDGET: 'set_timing_budget',
+  CONF_RETRY_BUDGET: 'set_retry_budget',
 
 }
 
