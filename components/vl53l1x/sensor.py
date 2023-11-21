@@ -16,7 +16,7 @@ vl53l1x_distance_modes = {
     'LONG': vl53l1x_distance_mode.LONG,
 }
 
-CONF_DISTANCE_MODE = "distance_mode"
+CONF_DISTANCE_MODE = 'distance_mode'
 CONF_TIMING_BUDGET = 'timing_budget'
 CONF_RETRY_BUDGET = 'retry_budget'
 
